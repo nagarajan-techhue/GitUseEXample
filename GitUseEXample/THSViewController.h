@@ -10,4 +10,6 @@
 
 @interface THSViewController : UIViewController
 
+-(IBAction)clickTheButton:(id)sender;
+
 @end
